@@ -1,7 +1,9 @@
 ---
+layout: default
+title: Home
 ---
 
-Welcome to My Home Page
+Welcome to My Home Page bfl
 
 {% assign date = '2020-04-13T10:20:00Z' %}
 
